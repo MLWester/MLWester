@@ -24,7 +24,7 @@ CYOA Console Game – C# OOP + multilingual messaging + unit tests
 
 🔹 Skills
 
-Languages & Frameworks: C#, ASP.NET Core, Razor Pages, React, FastAPI, TypeScript, Python, SQL
+Languages & Frameworks: C#, ASP.NET Core, Razor Pages, React, FastAPI, JavaScript, TypeScript, Python, SQL
 
 Frontend: TailwindCSS, Bootstrap, Responsive Design, UI/UX Principles
 
